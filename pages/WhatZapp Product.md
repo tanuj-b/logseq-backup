@@ -39,4 +39,4 @@
 			- Followups
 		- Log of Actions from users
 - The future of this product - [[Vision for Bitfool]]
--
+- Is there a change?
