@@ -1,0 +1,87 @@
+- Imagine that you have an eyeglasses companion, or earpiece companion. That just works on basically using people's headphones via bluetooth.
+	- In case we can we do eyeglasses
+- The first thing you do is load up context from yesterday and todos and tasks, and just have a structured five minute call.
+	- It can do celebrations
+	- Yes, it should have a sassy voice
+	- but it should have a personality that's engaging - it should know about what you care about.
+- The sturctured five minutes call covers:
+	- How you feeling? let's think through that
+	- What's on your mind?
+		- Just keep talking about those things
+		- From these identify new todos and actions
+			- Categorise them into the right project
+		- Bring up old todos as well
+			- Any other todos listed down
+			- Then go through reminders and followups
+	- Sort & Prioritise
+		- Show tasks in a way that they can be grouped
+		- Projects/Tags to categorise information
+		- Energy/intensity to categorise when to do - maybe the shortcut here is time?
+		- Look at projects/goals/priorities that are coming up
+	- Schedule on calendar
+		- Make improtant blocks
+	- Create a start notebook / daily journal for you
+		- The unifying visual interface of a task/project/etc is a mindmap notebook
+		- There's a canvas on which you can lay various ideas, but each idea finally has a zoomed in place which goes full screen
+			- Each task is a bubble and inside each are these chats and drawing like that visual tool app
+			- You can highlight any result and make it a variable or a name.
+			- You have git like editing and brnach saving on the work
+		- You can then make "work" about a space. A thing that you've saved and done.
+- Notebooks
+	- The executive planning part of your mind needs to be made more explicit
+		- But this is a boring, fast forward activitiy for smart people
+		- And it is a difficult activity for slow people
+		- and we have to balance it
+	- The main idea is to generate traces. Traces are your high level meta cognition tasks that show what you really want when you do a job.
+		- Traces will help us fine tune models to user preferences
+		- Traces will help build verifiers for what users want
+	- The additional thing with this is the context garden.
+		- We will know what is happening with your projects, tasks and your own mental state
+		- The triangulation of the next step in such a scenario is easier
+		- The better we get at it, the more rewards we collect, the more we are likely to win at this
+	- All these traces and context enable the most beautiful agentic flow you have seen.
+		- Basic Agentic Workflows
+			- Retrieve existing Agentic flows
+			- Create and Store Agentic flows
+			- Review Runs of agentic flow
+			- Start, Pause and Stop an agentic flow
+			- Edit a workflow
+			- Versioning of these workflows
+		- But then we can reuse these agents, very easily.
+	- See this as an example to do in coding - this executive plan is better because then you can review everything and see how it works together
+		- https://github.com/eyaltoledano/claude-task-master
+		- This works, where even smart people are willing to break it down bit by bit because it does then do the job more faithfully
+		- Big Tech would try to own this person and charge you $20k a month for it
+	- The self-documentation and meta-notes that make an output good don't have to be lost.
+		- These can instead be used to fix the traces and re run the programs and AI that made this task good
+		- People are going to need the specificity of these runs and retries a lot more
+		- This also allows people to build tools/templates of the work they've already done
+		- However, most users don't do such advanced things
+	- My reference for beautiful canvases would be that
+		- [flora ai](https://www.florafauna.ai)
+		- https://marimo.io
+	- So I need to also think through the UX of this tracing and complextiy
+	- But the idea has to be beauty - my thoughts uninterrupted, but also actionable.
+		- Letting my mind be my friend. Let the UX help me do better.
+		- It means that as context switch happens
+	- There's also the problem of elegant dying
+		- We have a lot of thoughts and desires to do things
+		- that should just be observed and not reacted to
+		- The crucial idea is to work on the things that matter
+	- This also gives you a sense of where people live - where they spend their time
+		- Distractions become easier to note
+		- There are rules and
+	- Another cool idea is to go like pinokio.computer and get macos use and browser use going
+		- This could also be achieved by a minimal ray-cast / hammerspoon / lua coding and then using applescript to run those via MCP maybe
+		- There's also the approach of just having a linux terminal somewhere do all the commands for you, and you're just streaming the response back to my machine
+- Obviously all your ocmmunication is a part of it.
+	- Every communication gives you a sense of context and there's an action item to be done.
+	- If you could first refuse it. If you say yes, then record it.
+	- If you record it, then try to do it automatically
+	- if not done, remind about it
+	- if reminding not going anywhere, offer to gracefully decline and close the loop
+	- or let them ignore it
+- The other thing would be inserting global context. If there were tags that let you specify which project or idea or thread or thought this work is related to. We can get very far.
+- The idea of a universal co-pilot is so crucial to the plan
+-
+	-
