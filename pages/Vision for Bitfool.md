@@ -83,5 +83,4 @@
 	- or let them ignore it
 - The other thing would be inserting global context. If there were tags that let you specify which project or idea or thread or thought this work is related to. We can get very far.
 - The idea of a universal co-pilot is so crucial to the plan
--
-	-
+- Can you change this? And does it work?
